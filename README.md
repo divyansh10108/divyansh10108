@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi there 👋
+## currently a sophomore at **IIIT-Delhi**
+### 🌱 I’m currently learning
+>React,Next and other frontend tools
+## Looking forward to gain real world experience...
 <!--
 **divyansh10108/divyansh10108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
